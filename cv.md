@@ -40,6 +40,6 @@ Beginning of training | The end of the training | University | Faculty | Special
 -----------------------  | -------------------------  | -----------  | -------- | ------------
 2016 | 2020 | Polotsk State University | Faculty of information technology | Information technology software
 
-## Knowledge of languages
+## English
 
 Studied English at school and University. Reading of technical documentation is higher then my spoken skills. English level is A2.
