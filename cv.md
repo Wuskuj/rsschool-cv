@@ -6,6 +6,11 @@
 * email: fil.bratov.98@mail.ru
 * linkedin: https://www.linkedin.com/in/филипп-братов-0b247319b/
 
+
+## Experience
+
+Unfortunalety, I have no production experience in mobile development for now. 
+
 ## Summary
 
 I study at last course at PSU. I have self-studied iOS development for 6 months. I have chosen mobile development for my career because I use iOS devices
